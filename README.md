@@ -1,3 +1,3 @@
-# Personal-Project
+# Personal Project-1
 
-Mario game clone
+This is a Mario game clone
